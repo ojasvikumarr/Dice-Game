@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import StartGame from "./Components/startGame";
+import StartGame from "./Components/StartGame";
 import {useState} from "react";
 import GamePlay from "./Components/GamePlay";
 const Button = styled.button`
