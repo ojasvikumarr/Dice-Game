@@ -1,0 +1,20 @@
+nav a{
+    padding : 10px ;
+}
+nav a:hover{
+    font-weight: 800;
+    transition:cubic-bezier(0.075, 0.82, 0.165, 1)
+}
+
+nav{
+    display: flex ;
+    justify-content : space-between;
+}
+.container{
+    max-width : 1290px ;
+    margin : 0 auto ;
+}
+
+.hello{
+    display: flex;
+}

@@ -1,0 +1,7 @@
+.hero{
+    display: flex ;
+    align-items: center;
+}
+.icons{
+    display : flex ;
+}

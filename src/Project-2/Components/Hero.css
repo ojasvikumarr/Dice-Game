@@ -1,0 +1,20 @@
+form Button{
+    background-color: black  ;
+    height : 44px ;
+}
+
+form Textarea{
+    display : block ;
+}
+
+.support{
+    padding : 10px 10px ;
+    display : flex ;
+    /* justify-content : space-between ; */
+    align-items:center;
+    gap : 32px;
+}
+
+.email{
+    width : 100% ;
+}
