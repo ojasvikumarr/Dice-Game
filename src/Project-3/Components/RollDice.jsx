@@ -8,7 +8,7 @@ export default function RollDice ({currentDice , rollDice}){
             <DiceContainer>
                 <div className="Dice"
                     onClick={() => rollDice()}>
-                <img src={`../Public/dice_${currentDice}.png`} alt="dice-image" />
+                <img src={`../Public/dice_1.png`} alt="dice-image" />
                 </div>
                 <p>Click on Dice to Roll</p>
             </DiceContainer>
