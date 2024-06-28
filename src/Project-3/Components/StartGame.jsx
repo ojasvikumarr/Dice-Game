@@ -5,7 +5,7 @@ export default function StartGame({toggle}){
         <>
         <Container>
             <div>
-            <img src="/public/Dices.png" alt="" />
+            <img src="https://m.media-amazon.com/images/I/61HCKXQmOZL._SL1024_.jpg" alt="" />
             </div>
             <div className="content">
                 <h1>DICE GAME</h1>
